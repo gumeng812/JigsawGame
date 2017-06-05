@@ -1,0 +1,35 @@
+```
+/* css reset */
+*, *::after, *::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body,input,button{
+    font-family:"Segoe UI","Lucida Grande",Helvetica,Arial,"Microsoft YaHei",FreeSans,Arimo,"Droid Sans","wenquanyi micro hei","Hiragino Sans GB","Hiragino Sans GB W3",FontAwesome,sans-serif;
+}
+html,body,div,h1,h2,h3,h4,h5,h6,button,p,input,table,tr,td,ul,ol,li{
+    padding: 0;
+    margin: 0;
+}
+table{
+	border-collapse:collapse;
+}
+ol,ul{
+    list-style-type: none;
+}
+button{
+    border-style: none;
+}
+input:disabled{
+    background-color:transparent;
+}
+a{
+    text-decoration:none;
+}
+:focus{outline:none;}
+.clear:after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+```
