@@ -1,0 +1,44 @@
+```
+.title{
+    width:900px;
+    height: 100px;
+    line-height: 100px;
+    color: #AAA;
+    text-align: center;
+}
+.setting{
+    width: 900px;
+    height: 100px;
+    font-size: 32px;
+}
+.start{
+    width: 150px;
+    height: 60px;
+    font-size: 32px;
+    color: #FFF;
+    background-color: #FF7F24;
+    border-radius: 5px;
+    float:right;
+}
+.model{
+    width:430px;
+    height:430px;
+    padding:10px;
+    float: left;
+}
+.play-area{
+    width:422px;
+    height:435px;
+    padding: 10px;
+    margin-left: 20px;
+    float: left;
+    border:1px solid #AAA;
+}
+.mycanvas{
+    width:100px;
+    height:100px;
+    border: 2px solid #EEE;
+    position:relative;
+}
+
+```
